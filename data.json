@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the largest organ in the human body?",
+    "option1": "Liver",
+    "option2": "Heart",
+    "option3": "Skin",
+    "option4": "Lungs",
+    "correctOption": 3,
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "option1": "Deoxyribonucleic Acid",
+    "option2": "Dinucleic Acid",
+    "option3": "Double Nitrogenous Acid",
+    "option4": "Dynamic Nucleic Acid",
+    "correctOption": 1,
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctOption": 2,
+    "category": "science",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "option1": "Iron",
+    "option2": "Diamond",
+    "option3": "Gold",
+    "option4": "Quartz",
+    "correctOption": 2,
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the unit of electric current?",
+    "option1": "Volt",
+    "option2": "Ohm",
+    "option3": "Ampere",
+    "option4": "Watt",
+    "correctOption": 3,
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "correctOption": 3,
+    "category": "science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who wrote the Declaration of Independence?",
+    "option1": "George Washington",
+    "option2": "Thomas Jefferson",
+    "option3": "John Adams",
+    "option4": "Benjamin Franklin",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "option1": "1943",
+    "option2": "1945",
+    "option3": "1950",
+    "option4": "1939",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "option1": "Abraham Lincoln",
+    "option2": "Thomas Jefferson",
+    "option3": "George Washington",
+    "option4": "John Adams",
+    "correctOption": 3,
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "option1": "Romans",
+    "option2": "Greeks",
+    "option3": "Aztecs",
+    "option4": "Egyptians",
+    "correctOption": 4,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "option1": "Santa Maria",
+    "option2": "Mayflower",
+    "option3": "HMS Beagle",
+    "option4": "Endeavour",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who wrote 'The Communist Manifesto'?",
+    "option1": "Karl Marx and Friedrich Engels",
+    "option2": "Vladimir Lenin",
+    "option3": "Joseph Stalin",
+    "option4": "Leon Trotsky",
+    "correctOption": 1,
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "option1": "Ottoman Empire",
+    "option2": "Mongol Empire",
+    "option3": "Byzantine Empire",
+    "option4": "Roman Empire",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the main cause of the Cold War?",
+    "option1": "Economic competition",
+    "option2": "Religious differences",
+    "option3": "Ideological conflict between capitalism and communism",
+    "option4": "Territorial disputes in Asia",
+    "correctOption": 3,
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who discovered the sea route to India in 1498?",
+    "option1": "Christopher Columbus",
+    "option2": "Vasco da Gama",
+    "option3": "Ferdinand Magellan",
+    "option4": "Marco Polo",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "option1": "Treaty of Versailles",
+    "option2": "Treaty of Tordesillas",
+    "option3": "Treaty of Paris",
+    "option4": "Treaty of Ghent",
+    "correctOption": 1,
+    "category": "history",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of the first human to orbit Earth?",
+    "option1": "Neil Armstrong",
+    "option2": "Yuri Gagarin",
+    "option3": "Alan Shepard",
+    "option4": "John Glenn",
+    "correctOption": 2,
+    "category": "history",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "option1": "Sydney",
+    "option2": "Melbourne",
+    "option3": "Canberra",
+    "option4": "Perth",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the highest mountain in the world?",
+    "option1": "K2",
+    "option2": "Kangchenjunga",
+    "option3": "Mount Everest",
+    "option4": "Makalu",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Sahara Desert is located in which continent?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Australia",
+    "option4": "South America",
+    "correctOption": 2,
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which river flows through Brazil?",
+    "option1": "Nile",
+    "option2": "Amazon",
+    "option3": "Ganges",
+    "option4": "Yangtze",
+    "correctOption": 2,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "option1": "Toronto",
+    "option2": "Montreal",
+    "option3": "Ottawa",
+    "option4": "Vancouver",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Great Barrier Reef is located off the coast of which country?",
+    "option1": "Brazil",
+    "option2": "Indonesia",
+    "option3": "Australia",
+    "option4": "Mexico",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which ocean is the 'Ring of Fire' associated with?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Arctic Ocean",
+    "option4": "Pacific Ocean",
+    "correctOption": 4,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "option1": "Oslo",
+    "option2": "Reykjavik",
+    "option3": "Helsinki",
+    "option4": "Stockholm",
+    "correctOption": 2,
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Danube River flows into which sea?",
+    "option1": "Mediterranean Sea",
+    "option2": "Caspian Sea",
+    "option3": "Black Sea",
+    "option4": "North Sea",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country has the most time zones?",
+    "option1": "Russia",
+    "option2": "United States",
+    "option3": "France",
+    "option4": "China",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which desert is known as the driest place on Earth?",
+    "option1": "Sahara Desert",
+    "option2": "Gobi Desert",
+    "option3": "Atacama Desert",
+    "option4": "Arabian Desert",
+    "correctOption": 3,
+    "category": "geography",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
+    "option1": "Chris Evans",
+    "option2": "Robert Downey Jr.",
+    "option3": "Chris Hemsworth",
+    "option4": "Mark Ruffalo",
+    "correctOption": 2,
+    "category": "entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "option1": "Christopher Nolan",
+    "option2": "Steven Spielberg",
+    "option3": "Quentin Tarantino",
+    "option4": "James Cameron",
+    "correctOption": 1,
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which TV show features the fictional continent of Westeros?",
+    "option1": "Stranger Things",
+    "option2": "The Crown",
+    "option3": "Game of Thrones",
+    "option4": "Breaking Bad",
+    "correctOption": 3,
+    "category": "entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who sang the hit song 'Bad Guy'?",
+    "option1": "Taylor Swift",
+    "option2": "Billie Eilish",
+    "option3": "Ariana Grande",
+    "option4": "Dua Lipa",
+    "correctOption": 2,
+    "category": "entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which actor played Wolverine in the 'X-Men' films?",
+    "option1": "Chris Hemsworth",
+    "option2": "Hugh Jackman",
+    "option3": "Ryan Reynolds",
+    "option4": "Robert Downey Jr.",
+    "correctOption": 2,
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the highest-grossing animated film of all time?",
+    "option1": "Frozen II",
+    "option2": "The Lion King (2019)",
+    "option3": "Frozen",
+    "option4": "Incredibles 2",
+    "correctOption": 1,
+    "category": "entertainment",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which rapper’s real name is Aubrey Graham?",
+    "option1": "Kanye West",
+    "option2": "Drake",
+    "option3": "Jay-Z",
+    "option4": "Eminem",
+    "correctOption": 2,
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who won the Best Actress Oscar for 'La La Land' (2016)?",
+    "option1": "Emma Stone",
+    "option2": "Jennifer Lawrence",
+    "option3": "Natalie Portman",
+    "option4": "Brie Larson",
+    "correctOption": 1,
+    "category": "entertainment",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which band released the album 'Rumours'?",
+    "option1": "The Beatles",
+    "option2": "Fleetwood Mac",
+    "option3": "Queen",
+    "option4": "The Rolling Stones",
+    "correctOption": 2,
+    "category": "entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of Eleven’s favorite snack in 'Stranger Things'?",
+    "option1": "Eggo Waffles",
+    "option2": "Oreos",
+    "option3": "Pop-Tarts",
+    "option4": "Pringles",
+    "correctOption": 1,
+    "category": "entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who composed the soundtrack for 'Interstellar'?",
+    "option1": "Hans Zimmer",
+    "option2": "John Williams",
+    "option3": "Alan Silvestri",
+    "option4": "Danny Elfman",
+    "correctOption": 1,
+    "category": "entertainment",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the name of the world's largest social media?",
+    "option1": "Twitter",
+    "option2": "Instagram",
+    "option3": "Facebook",
+    "option4": "LinkedIn",
+    "correctOption": 3,
+    "category": "technology",
+    "difficulty": "medium"
+  }
+]
